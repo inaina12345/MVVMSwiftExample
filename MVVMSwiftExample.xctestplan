@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "A3D38C4B-1A31-4FB7-A550-9EF343CD9F12",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MVVMSwiftExample.xcodeproj",
+      "identifier" : "11BCCCA81D97CA2C008DB25F",
+      "name" : "MVVMSwiftExample"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MVVMSwiftExample.xcodeproj",
+        "identifier" : "11BCCCBC1D97CA2C008DB25F",
+        "name" : "MVVMSwiftExampleTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:MVVMSwiftExample.xcodeproj",
+        "identifier" : "11BCCCC71D97CA2C008DB25F",
+        "name" : "MVVMSwiftExampleUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

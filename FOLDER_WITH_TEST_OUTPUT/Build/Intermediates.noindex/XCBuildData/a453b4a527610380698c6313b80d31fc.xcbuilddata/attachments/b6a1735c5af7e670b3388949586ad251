@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests-master.swiftdeps"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExampleUITests/MVVMSwiftExampleUITests.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExampleUITests.build/Objects-normal/arm64/MVVMSwiftExampleUITests~partial.swiftmodule"
+  }
+}

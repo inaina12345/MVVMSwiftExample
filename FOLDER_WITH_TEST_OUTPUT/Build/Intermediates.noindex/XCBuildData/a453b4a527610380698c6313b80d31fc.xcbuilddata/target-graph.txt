@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'MVVMSwiftExampleUITests' in project 'MVVMSwiftExample'
+➜ Explicit dependency on target 'MVVMSwiftExample' in project 'MVVMSwiftExample'
+Target 'MVVMSwiftExampleTests' in project 'MVVMSwiftExample'
+➜ Explicit dependency on target 'MVVMSwiftExample' in project 'MVVMSwiftExample'
+Target 'MVVMSwiftExample' in project 'MVVMSwiftExample' (no dependencies)

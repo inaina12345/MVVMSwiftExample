@@ -1,0 +1,158 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/MVVMSwiftExample-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/MVVMSwiftExample-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/MVVMSwiftExample-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/MVVMSwiftExample-master.swiftdeps"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/AppDelegate.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/Game.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Game~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/GameLibrary.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameLibrary~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/GameScoreboardEditorViewController.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/GameScoreboardEditorViewController~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/HomeViewController.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/HomeViewController~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/InMemoryGameLibrary.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/InMemoryGameLibrary~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/NSTimer+Closure.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/NSTimer+Closure~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/Player.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Player~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/PlayerScoreboardMoveEditorView.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/PlayerScoreboardMoveEditorView~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/Team.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/Team~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/UIColor+Theme.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIColor+Theme~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/UINib+Loader.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UINib+Loader~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/UIStoryboard+Loader.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIStoryboard+Loader~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/MVVMSwiftExample/UIViewController+Subview.swift" : {
+    "const-values" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.d",
+    "diagnostics" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.dia",
+    "index-unit-output-path" : "/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.o",
+    "llvm-bc" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.bc",
+    "object" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.o",
+    "swift-dependencies" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/dino4674-mvvmswiftexample-starter-25663cc4ee77 2/FOLDER_WITH_TEST_OUTPUT/Build/Intermediates.noindex/MVVMSwiftExample.build/Debug-iphoneos/MVVMSwiftExample.build/Objects-normal/arm64/UIViewController+Subview~partial.swiftmodule"
+  }
+}
